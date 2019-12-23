@@ -10,11 +10,11 @@ permalink: /about.html
 
 你可以通过以下方式联系作者
 
-QQ: 1316341442
+QQ: xxx
 
 Email: <a href="mailto:lk@atlinker.cn">lk@atlinker.cn</a>
 
-Github: [link9596](https://github.com/link9596)
+Github: [link9596](https://github.com/kevinzhang89)
 
 ## #捐助我
 
